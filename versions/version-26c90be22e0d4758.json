@@ -6,12 +6,12 @@
     },
     "Instance": {
       "ChildrenEnd": 8,
-      "ChildrenStart": 112,
+      "ChildrenStart": 120,
       "ClassDescriptor": 24,
       "ClassBase": 3560,
       "ClassName": 8,
       "Name": 176,
-      "Parent": 104,
+      "Parent": 112,
       "SoundId": 224,
       "Value": 208
     },
