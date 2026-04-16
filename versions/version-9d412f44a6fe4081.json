@@ -1,0 +1,22 @@
+{
+  "Offsets": {
+    "DataModel": {
+      "FakeDataModel": 128514312,
+      "RealPtr": 448
+    },
+    "Instance": {
+      "ChildrenEnd": 8,
+      "ChildrenStart": 120,
+      "ClassDescriptor": 24,
+      "ClassBase": 3544,
+      "ClassName": 8,
+      "Name": 176,
+      "Parent": 112,
+      "SoundId": 224,
+      "Value": 208
+    },
+    "Players": {
+      "LocalPlayer": 304
+    }
+  }
+}
